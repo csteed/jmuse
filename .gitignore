@@ -1,0 +1,12 @@
+*.class
+.settings
+.project
+.classpath
+*.DS_Store
+target
+*.json
+logs/
+logs/*.log*
+0.glob_avg_calcs
+*.nc
+eden.properties
