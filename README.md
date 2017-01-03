@@ -14,7 +14,7 @@ $ mvn compile
 $ mvn package
 ```
 
-### Running EDEN
+### Running jMuse
 
 These commands will generate 2 jar files in the target directory.  Copy the jar file with dependencies into the scripts directory and run either the jmuse.bat script (Windows) or the jmuse.sh script (Mac or Linux).  The **jMUSE** GUI should appear after issuing this command.  Example data files are provided in the data directory for trying **jMUSE** out.  
 
